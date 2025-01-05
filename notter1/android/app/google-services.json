@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021260180387",
+    "project_id": "notter-2fc6f",
+    "storage_bucket": "notter-2fc6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021260180387:android:ecde4bd658be5e3fa3c816",
+        "android_client_info": {
+          "package_name": "com.example.notter1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2BW10WNnIF5d8PYmWP4-AoYobWD07g1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021260180387:android:b5ac627ff0d5c480a3c816",
+        "android_client_info": {
+          "package_name": "com.xiuyn.notter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2BW10WNnIF5d8PYmWP4-AoYobWD07g1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
